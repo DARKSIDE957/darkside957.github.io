@@ -1,1 +1,115 @@
+# Site Metadata
+title: VR Help Center
+description: A guide to help you connect your Pico VR or Quest VR devices.
+theme: jekyll-theme-minimal
 
+# Navigation Menu
+nav:
+  - title: Home
+    url: /
+  - title: Pico VR Guide
+    url: /pico-vr
+  - title: Quest VR Guide
+    url: /quest-vr
+  - title: FAQ
+    url: /faq
+  - title: Contact
+    url: /contact
+
+# Page Content
+pages:
+  home:
+    title: Welcome to VR Help Center
+    content: |
+      # Welcome to VR Help Center
+
+      This website is designed to help you set up and troubleshoot your **Pico VR** or **Quest VR** devices. Whether you're a beginner or need assistance with advanced settings, we've got you covered.
+
+      ## Get Started
+
+      - [Set up your Pico VR](/pico-vr)
+      - [Set up your Quest VR](/quest-vr)
+      - [View Frequently Asked Questions](/faq)
+      - [Contact Support](/contact)
+
+  pico-vr:
+    title: Pico VR Setup Guide
+    content: |
+      # Pico VR Setup Guide
+
+      Follow these steps to connect your Pico VR device:
+
+      ## Step 1: Download the Pico App
+      - Go to the **App Store** (iOS) or **Google Play Store** (Android).
+      - Search for "Pico VR" and install the app.
+
+      ## Step 2: Turn On Your Pico VR
+      - Press and hold the power button on your Pico VR headset until it turns on.
+
+      ## Step 3: Connect to Wi-Fi
+      - Use the Pico app to connect your headset to your Wi-Fi network.
+
+      ## Step 4: Pair Your Device
+      - Open the Pico app and follow the on-screen instructions to pair your headset.
+
+      ## Troubleshooting
+      - If you encounter issues, check the [FAQ](/faq) or [Contact Support](/contact).
+
+  quest-vr:
+    title: Quest VR Setup Guide
+    content: |
+      # Quest VR Setup Guide
+
+      Follow these steps to connect your Quest VR device:
+
+      ## Step 1: Download the Oculus App
+      - Go to the **App Store** (iOS) or **Google Play Store** (Android).
+      - Search for "Oculus" and install the app.
+
+      ## Step 2: Turn On Your Quest VR
+      - Press and hold the power button on your Quest VR headset until it turns on.
+
+      ## Step 3: Connect to Wi-Fi
+      - Use the Oculus app to connect your headset to your Wi-Fi network.
+
+      ## Step 4: Pair Your Device
+      - Open the Oculus app and follow the on-screen instructions to pair your headset.
+
+      ## Troubleshooting
+      - If you encounter issues, check the [FAQ](/faq) or [Contact Support](/contact).
+
+  faq:
+    title: Frequently Asked Questions
+    content: |
+      # Frequently Asked Questions
+
+      ## General Questions
+
+      **Q: Can I use my Pico VR without Wi-Fi?**
+      - A: No, Wi-Fi is required for initial setup and software updates.
+
+      **Q: Why won’t my Quest VR connect to my phone?**
+      - A: Ensure Bluetooth is enabled on your phone and that you’re using the latest version of the Oculus app.
+
+      ## Troubleshooting
+
+      **Q: My headset isn’t turning on. What should I do?**
+      - A: Make sure the battery is charged. If it still doesn’t turn on, try a factory reset.
+
+      **Q: How do I reset my VR headset?**
+      - A: Refer to your device’s manual for instructions on performing a factory reset.
+
+      For more help, visit the [Contact](/contact) page.
+
+  contact:
+    title: Contact Us
+    content: |
+      # Contact Us
+
+      If you need further assistance, feel free to reach out:
+
+      - **Email**: support@vrhelpcenter.com
+      - **Phone**: +1 (123) 456-7890
+      - **Social Media**: [@VRHelpCenter](https://twitter.com/vrhelpcenter)
+
+      We aim to respond within 24 hours.
